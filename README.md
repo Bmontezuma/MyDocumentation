@@ -3,10 +3,5 @@
 ## ***Table of Contents***
 
 [Java](https://github.com/Bmontezuma/MyDocumentation/tree/main/Java)
-
-* [Array List](https://github.com/Bmontezuma/MyDocumentation/blob/main/Java/ArrayList.md)
-* [Arrays](https://github.com/Bmontezuma/MyDocumentation/blob/main/Java/Arrays.md)
-* [Boolean](https://github.com/Bmontezuma/MyDocumentation/blob/main/Java/Boolean.md)
-
-
+[C++](https://github.com/Bmontezuma/MyDocumentation/tree/main/C%2B%2B)
 
