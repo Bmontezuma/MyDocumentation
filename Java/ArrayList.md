@@ -50,7 +50,7 @@ public class Example {
 }
 ```
 *The output would be:*
-```
+```java
 []
 [hello, India]
 1
