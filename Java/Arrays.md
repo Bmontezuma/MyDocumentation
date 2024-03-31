@@ -10,7 +10,7 @@ dataType[] varName = {elemOne, elemTwo, elemThree, elemN};
 ```
 
 *Alternatively, an array can be defined with the new keyword, the arrayLength integer defined, and each of the elements defined afterward:*
-```
+```java
 dataType[] varName = new dataType[arrayLength];
 
 varName[0] = valueOne;
@@ -22,7 +22,7 @@ varName[n] = valueN;
 
 ### ***Example***
 *In the example below, an array can be created in the following ways:*
-```
+```java
 int[] semesterOneMarks = {10, 20, 30, 40, 50};
 
 String[] semesterOneCourses = new String[5];
@@ -34,7 +34,7 @@ semesterOneCourses[3] = "Programming";
 semesterOneCourses[4] = "Gym";
 ```
 *Elements within the array can be accessed and changed as well:*
-```
+```java
 System.out.print(semesterOneCourses[0] + ": ");
 System.out.println(semesterOneMarks[0]);
 
@@ -53,7 +53,7 @@ System.out.print(semesterOneCourses[4] + ": ");
 System.out.println(semesterOneMarks[4]);
 ```
 *The output will look like this:*
-```
+```java
 Algebra: 10
 History: 20
 Literature: 30
