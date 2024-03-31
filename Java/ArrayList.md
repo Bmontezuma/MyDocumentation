@@ -14,17 +14,17 @@
 
 *This class is imported with the java.util package.*
 
-```
+```java
 import java.util.ArrayList;
 ```
 *The syntax for defining an instance of ArrayList is similar to defining a traditional array. A key difference is that angle brackets <> are used instead of square brackets:*
-```
+```java
 ArrayList<DataType> arrayListInstance = new ArrayList<DataType>();
 ```
 ### ***Example***
 
 *In the example below, a new ArrayList instance arr is defined. There are print statements throughout to show elements being added to and removed from arr before it is ultimately cleared:*
-```
+```java
 // Import from the java.util package
 import java.util.ArrayList;
 
