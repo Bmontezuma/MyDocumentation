@@ -1,5 +1,5 @@
 # ***Encapsulation***
-
+![Image](https://i1.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/06/Encapsulation-in-C.jpg?fit=1200%2C628&ssl=1)
 ***`Encapsulation`*** is a way of organizing data members (***attributes***) and function members (***methods***) by wrapping them together in a single class. By bundling them together in a single unit, the code is cleaner, more readable, and more maintainable.
 
 ```cpp
