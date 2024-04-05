@@ -1,3 +1,4 @@
+![Image](https://i.morioh.com/2021/10/26/677043de.webp)
 # ***Accessors***
 
 ***Accessors*** in JavaScript, often referred to as "***getters***" and "***setters***," are functions used to access and modify object properties. They provide a way to control how properties are accessed and set. Here are some comprehensive notes on ***accessors*** in JavaScript:
