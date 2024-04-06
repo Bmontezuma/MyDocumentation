@@ -1,4 +1,4 @@
-![[Image](https://res.cloudinary.com/witspry/image/upload/v1567873573/witscad/public/content/courses/csharp-basics/arrays_in_csharp.jpg)
+![Image](https://res.cloudinary.com/witspry/image/upload/v1567873573/witscad/public/content/courses/csharp-basics/arrays_in_csharp.jpg)
 # ***Arrays***
 
 An ***array*** is a data structure used in C# to ***store a sequential collection of elements***. Its size is ***immutable*** (***cannot be changed after creation***). The elements of an array are all of the same type. 
